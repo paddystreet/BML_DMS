@@ -113,4 +113,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# The hidden file created in every local folder in Mac OS X.
 .DS_Store
