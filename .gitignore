@@ -115,3 +115,6 @@ dmypy.json
 
 # The hidden file created in every local folder in Mac OS X.
 .DS_Store
+
+# In case anyone use RStudio to edit codes.
+.Rhistory
